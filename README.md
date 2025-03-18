@@ -2,4 +2,4 @@
 - The code for STDD: Spatio-Temporal Dual Diffusion for Video Generation
 
 
-We will release the code in a few months. 
+We will release the code in few months. 
